@@ -4,7 +4,7 @@
 <h3 align="center">A self taught full stack  developer from India</h3>
 <br/>
 <br/>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 🔭 I'm currently work as an intern in MERN stack <br><br>I'm in interested in collaborating on projects<br><br>connect to me muhammedanshidh.t@gmail.com<br><br>
 
 

@@ -1,10 +1,11 @@
 # 💫 About Me:
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://cdn.gencraft.com/prod/user/739de0ab-5b69-4b2a-aaf8-c872d65d4435/7e13f3e6-de34-45af-b39d-c4cadc83a370/images/image1_1024_1024_watermark.jpg?Expires=1690614597&Signature=M6uyk67nOJdakI07YhKz8TGUURB-daJ6ZgLQ2mKuRl859RDjV78AAFTADxOsZkWLqoxdfzaR714HwdIYQ5JMY08-g~d4cF5uXjYgTJYQ0ErdoqFW1fiL4JsuFB9FgG5XDqIOunWG7i6R9rPAVId~yzuSRPLn~VjoUr7kBJeZdGYDGG0TTVNzxyGa5tPZuuwu-1kU1i1uz4rWzu9Y6wGma6tY2iKFz0OkSBldVDCKjEyb7wMXypFJLliSg4sFOqqJ6DUJ~P8DEkCqgwQDOsvUUvgh40F15u1ZaMUkEKlDsGSVM0WEqJzrzFKJ7K3kTQ~E1gJYBvqLFk1u58QC5pfpwA__&Key-Pair-Id=K3RDDB1TZ8BHT8)
+
+<img> src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> </img>
 <h1 align="center">Hi 👋, I'm ANSHID</h1>
 <h3 align="center">A self taught full stack  developer from India</h3>
 <br/>
 <br/>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 🔭 I'm currently work as an intern in MERN stack <br><br>I'm in interested in collaborating on projects<br><br>connect to me muhammedanshidh.t@gmail.com<br><br>
 
 

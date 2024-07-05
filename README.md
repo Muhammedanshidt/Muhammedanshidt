@@ -4,7 +4,7 @@
 <h3 align="center">A self taught full stack  developer from India</h3>
 <br/>
 <br/>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 🔭 I'm currently work as an intern in MERN stack <br><br>I'm in interested in collaborating on projects<br><br>connect to me muhammedanshidh.t@gmail.com<br><br>
 
 

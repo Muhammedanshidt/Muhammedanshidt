@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> </img>
+<img src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://i.gifer.com/EZuR.gif)" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> </img>
 <h1 align="center">Hi 👋, I'm ANSHID</h1>
 <h3 align="center">A self taught full stack developer from India</h3>
 <br/>

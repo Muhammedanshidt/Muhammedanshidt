@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 
 <h1 align="center">Hi 👋  I'm ANSHID</h1>

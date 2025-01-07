@@ -1,7 +1,7 @@
 # 💫 About Me
 
 
-<h1 align="center">Hi 👋 I'm Anshid</h1>
+<h1 align="center">Hi I'm Anshid</h1>
 <h3 align="center">A self taught full stack developer</h3>
 <br/>
 <br/>

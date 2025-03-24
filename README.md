@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-🔭 I'm currently work as an intern in MERN stack <br><br>😍 I'm in interested in collaborating on projects<br><br> 📧connect to me muhammedanshidh.t@gmail.com<br><br>
+🔭 I'm currently work as an Advisor and Developer in MERN stack <br><br>😍 I'm in interested in collaborating on projects<br><br> 📧connect to me muhammedanshidh.t@gmail.com<br><br>
 
 
 ## 🌐 Socials:
